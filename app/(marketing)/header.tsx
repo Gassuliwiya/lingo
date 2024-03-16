@@ -1,3 +1,4 @@
+"use client";
 import { Button } from "@/components/ui/button";
 import { SignInButton, SignedOut } from "@clerk/clerk-react";
 import { ClerkLoaded, ClerkLoading, SignedIn, UserButton } from "@clerk/nextjs";
